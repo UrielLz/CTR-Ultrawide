@@ -2,9 +2,9 @@
 
 21:9 and 32:9 ultrawide support for the Crash Team Racing: Nitro-Fueled PC port (OCTR v0.5.2).
 
-## [Download CTR-Ultrawide-mod-v1.0.zip](https://github.com/UrielLz/CTR-Ultrawide/raw/main/CTR-Ultrawide-mod-v1.0.zip)
+## [Download CTR-Ultrawide-mod-v1.1.zip](https://github.com/UrielLz/CTR-Ultrawide/raw/main/CTR-Ultrawide-mod-v1.1.zip)
 
-34 MB · SHA-256 in [`CTR-Ultrawide-mod-v1.0.zip.sha256`](CTR-Ultrawide-mod-v1.0.zip.sha256)
+34 MB · SHA-256 in [`CTR-Ultrawide-mod-v1.1.zip.sha256`](CTR-Ultrawide-mod-v1.1.zip.sha256)
 
 ![Race at 3440x1440 with the mod](docs/carrera-ultrawide.jpg)
 
@@ -29,7 +29,7 @@ Without the mod:
 
 ## Notes
 
-- Requires the [OCTR-NitroFueled-PC v0.5.2](https://github.com/Ryu7w7/OCTR-NitroFueled-PC/releases/tag/v0.5.2) port and 1080p internal resolution.
+- Requires the [OCTR-NitroFueled-PC v0.5.2](https://github.com/Ryu7w7/OCTR-NitroFueled-PC/releases/tag/v0.5.2) port. Works at 1080p, 1440p and 4K internal resolution (1440p recommended for 3440x1440).
 - No game files included.
 - To uninstall: extract the original port zip over it.
 
